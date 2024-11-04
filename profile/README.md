@@ -1,6 +1,6 @@
 # Miroshar Software Ltd
 
-## Case Management
+## [Case Management](https://docs.miroshar.com)
 
 Manage all your administrative activities involved in working on a case, from recording time engaged in preparing documents and forms to making and receiving calls.
 Carry out workflow functions such as sending letters, emails, and SMS messages, and setting and maintaining tasks and reminders. Record financial transactions, invoices, credit notes, and payments from office and client accounts.
