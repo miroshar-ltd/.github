@@ -1,4 +1,4 @@
-# Miroshar Software Ltd
+# Miroshar Ltd
 
 ## [Case Management](https://docs.miroshar.com)
 
